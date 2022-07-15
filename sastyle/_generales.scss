@@ -20,10 +20,9 @@ body {
 }
 
 
-
 .navbar{
     background-image: url(../imagenes/background.png);
-           }
+}
 
 
 aside
@@ -37,16 +36,14 @@ aside
 }
 
 
-footer
+.mb-3
 {
-    font-size: 20px;
-    margin-top: 112px;
-    background-color: rgb(245, 160, 234);
-    display: flex;
-    justify-content: center;
+    margin: 40px 250px;
 }
 
-fieldset
+div .jpg
 {
-    margin-top: 220px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom: 150px;
 }
